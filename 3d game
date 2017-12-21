@@ -1,0 +1,8 @@
+public class threeDgame {
+
+public static void main(String args[]) {
+
+System.print.out("hello world");
+}
+
+}
